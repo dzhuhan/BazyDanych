@@ -1,2 +1,2 @@
 # BazyDanych
-Dzhuhan Andrii
+Przykładowa baza danych dla lotniska. Jest to projekt zaliczeniowy z przedmiotu „Bazy danych”.
